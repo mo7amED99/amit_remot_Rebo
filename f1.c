@@ -1,7 +1,7 @@
 
 int main(){
 printf("mohamed omar");
-printf("mohar");
+printf("mohamed omar abdelshafy");
 printf("mohamed");
 
 
